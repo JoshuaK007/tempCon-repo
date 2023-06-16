@@ -2,7 +2,6 @@
 import sys
 sys.path.append('./modules')
 import temperature as temp
-# Example comment to be retreived from 
 
 def main():
         again = 'y'
